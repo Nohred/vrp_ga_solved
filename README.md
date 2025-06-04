@@ -64,8 +64,3 @@ Los resultados de múltiples configuraciones se encuentran documentados en el in
 * **Juan Ulises Calderón Huerta** – [ju.calderonhuerta@ugto.mx](mailto:ju.calderonhuerta@ugto.mx)
   Universidad de Guanajuato, DICIS
 
-
----
-
-¿Quieres que también genere automáticamente este `README.md` como archivo para que solo tengas que hacer `git add README.md` y `git push`?
-```
